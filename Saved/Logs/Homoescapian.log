@@ -1806,3 +1806,82 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.19-05.56.03:949][650]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/Unreal Projects/Homoescapian/Saved/StalagmiteC23691C74987629E18361197052CC670.tmp' to '../../../../../../Users/jacob/Documents/Unreal Projects/Homoescapian/Content/EnvironmentalHazards/Stalagmite.uasset'
 [2021.04.19-05.56.03:962][650]AssetCheck: New page: Asset Save: Stalagmite
 [2021.04.19-05.56.03:962][650]LogContentValidation: Display: Validating Blueprint /Game/EnvironmentalHazards/Stalagmite.Stalagmite
+[2021.04.19-05.58.11:474][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.04.19-05.58.11:482][547]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/Unreal Projects/Homoescapian/Saved/HomoEscapien0342E31C432E78F9471FAEA83539CB6D.tmp' to '../../../../../../Users/jacob/Documents/Unreal Projects/Homoescapian/Content/ScottEnemyAi2/HomoEscapien.umap'
+[2021.04.19-05.58.11:589][547]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/Unreal Projects/Homoescapian/Saved/HomoEscapien_BuiltDataE64F959147063401D38C06BDEB259922.tmp' to '../../../../../../Users/jacob/Documents/Unreal Projects/Homoescapian/Content/ScottEnemyAi2/HomoEscapien_BuiltData.uasset'
+[2021.04.19-05.58.11:599][547]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.19-05.58.11:599][547]LogContentValidation: Display: Validating World /Game/ScottEnemyAi2/HomoEscapien.HomoEscapien
+[2021.04.19-05.58.11:599][547]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ScottEnemyAi2/HomoEscapien_BuiltData.HomoEscapien_BuiltData
+[2021.04.19-05.58.23:562][258]LogSlate: Window 'Source Control Login' being destroyed
+[2021.04.19-05.58.38:536][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.04.19-06.07.19:587][377]LogAudioMixer: Resetting audio stream to device id 
+[2021.04.19-06.07.19:630][377]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.19-06.07.19:630][377]LogAudioMixer: Display: 1: FrontRight
+[2021.04.19-06.08.01:776][401]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.04.19-06.08.02:137][401]LogAudioMixer: Resetting audio stream to device id 
+[2021.04.19-06.08.02:210][401]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.19-06.08.02:211][401]LogAudioMixer: Display: 1: FrontRight
+[2021.04.19-06.08.02:426][402]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.04.19-06.08.02:427][402]LogHttp: Warning: 00000262D1E4D600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B98639EA0-4E99-03DE-94CB-BEBD9EE40338%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=3e27e26d4a10700b02dde994136c616e%7Cca07542a6a674b3f98f65ff327111f92%7Cc109fc94-9af9-46f2-8f0d-da8652f1698d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.04.19-06.08.02:427][402]LogHttp: Warning: 00000262D1E4D600: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.04.19-06.08.02:428][402]LogHttp: Warning: 00000262D1E4D600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x262290c7eb0 [can pipeline])
+[2021.04.19-06.08.02:428][402]LogHttp: Warning: 00000262D1E4D600: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2021.04.19-06.08.02:428][402]LogHttp: Warning: 00000262D1E4D600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.196.124.185) port 443 (#1))
+[2021.04.19-06.08.02:428][402]LogHttp: Warning: 00000262D1E4D600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.04.19-06.08.02:428][402]LogHttp: Warning: 00000262D1E4D600: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.04.19-06.08.02:428][402]LogHttp: Warning: 00000262D1E4D600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.04.19-06.08.02:428][402]LogHttp: Warning: 00000262D1E4D600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.04.19-06.08.02:428][402]LogHttp: Warning: 00000262D1E4D600: libcurl info message cache 7 (Closing connection 1)
+[2021.04.19-06.08.02:429][402]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B98639EA0-4E99-03DE-94CB-BEBD9EE40338%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=3e27e26d4a10700b02dde994136c616e%7Cca07542a6a674b3f98f65ff327111f92%7Cc109fc94-9af9-46f2-8f0d-da8652f1698d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.04.19-06.08.02:926][403]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.04.19-06.08.03:074][403]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2021.04.19-06.08.04:439][404]LogRenderer: Reallocating scene render targets to support 1516x600 Format 10 NumSamples 1 (Frame:8204).
+[2021.04.19-06.46.25:482][258]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{5adcc622-1223-4874-8d9e-c228685ba991}.
+[2021.04.19-06.46.25:482][258]LogAudioMixer: Resetting audio stream to device id 
+[2021.04.19-06.46.26:044][258]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.19-06.46.26:044][258]LogAudioMixer: Display: 1: FrontRight
+[2021.04.19-07.14.17:286][237]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{a4953f71-db3a-46f7-a50c-ee587f938c79}.
+[2021.04.19-07.14.17:287][237]LogAudioMixer: Resetting audio stream to device id 
+[2021.04.19-07.14.17:512][237]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.19-07.14.17:512][237]LogAudioMixer: Display: 1: FrontRight
+[2021.04.19-07.19.41:028][202]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{5adcc622-1223-4874-8d9e-c228685ba991}.
+[2021.04.19-07.19.41:028][202]LogAudioMixer: Resetting audio stream to device id 
+[2021.04.19-07.19.41:341][202]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.19-07.19.41:341][202]LogAudioMixer: Display: 1: FrontRight
+[2021.04.19-09.16.59:630][173]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{a4953f71-db3a-46f7-a50c-ee587f938c79}.
+[2021.04.19-09.16.59:630][173]LogAudioMixer: Resetting audio stream to device id 
+[2021.04.19-09.16.59:797][173]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.19-09.16.59:797][173]LogAudioMixer: Display: 1: FrontRight
+[2021.04.19-09.17.21:219][426]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content' is outside repository at 'C:/Users/jacob/Documents/Unreal Projects/Homoescapian'
+[2021.04.19-09.17.21:219][426]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/jacob/Documents/Unreal Projects/Homoescapian'
+[2021.04.19-09.17.21:219][426]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/jacob/Documents/Unreal Projects/Homoescapian'
+[2021.04.19-09.17.21:219][426]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/jacob/Documents/Unreal Projects/Homoescapian'
+[2021.04.19-09.17.21:219][426]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/jacob/Documents/Unreal Projects/Homoescapian'
+[2021.04.19-09.17.21:219][426]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/jacob/Documents/Unreal Projects/Homoescapian'
+[2021.04.19-09.17.21:219][426]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/jacob/Documents/Unreal Projects/Homoescapian'
+[2021.04.19-09.17.21:219][426]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/jacob/Documents/Unreal Projects/Homoescapian'
+[2021.04.19-09.17.21:219][426]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/jacob/Documents/Unreal Projects/Homoescapian'
+[2021.04.19-09.17.21:219][426]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/jacob/Documents/Unreal Projects/Homoescapian'
+[2021.04.19-09.17.21:219][426]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/jacob/Documents/Unreal Projects/Homoescapian'
+[2021.04.19-09.17.21:219][426]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/jacob/Documents/Unreal Projects/Homoescapian'
+[2021.04.19-09.17.21:219][426]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/jacob/Documents/Unreal Projects/Homoescapian'
+[2021.04.19-09.17.21:219][426]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/jacob/Documents/Unreal Projects/Homoescapian'
+[2021.04.19-09.17.21:219][426]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/jacob/Documents/Unreal Projects/Homoescapian'
+[2021.04.19-09.17.21:219][426]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/jacob/Documents/Unreal Projects/Homoescapian'
+[2021.04.19-09.17.21:219][426]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/jacob/Documents/Unreal Projects/Homoescapian'
+[2021.04.19-09.17.21:219][426]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/jacob/Documents/Unreal Projects/Homoescapian'
+[2021.04.19-09.17.21:219][426]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/jacob/Documents/Unreal Projects/Homoescapian'
+[2021.04.19-09.17.21:219][426]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/jacob/Documents/Unreal Projects/Homoescapian'
+[2021.04.19-09.17.21:219][426]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/jacob/Documents/Unreal Projects/Homoescapian'
+[2021.04.19-09.17.22:408][426]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.04.19-09.17.22:428][426]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/Unreal Projects/Homoescapian/Saved/HomoEscapienC59129CE40027F82A199ECA37E1D4568.tmp' to '../../../../../../Users/jacob/Documents/Unreal Projects/Homoescapian/Content/ScottEnemyAi2/HomoEscapien.umap'
+[2021.04.19-09.17.22:436][426]LogFileHelpers: Saving map 'HomoEscapien' took 0.120
+[2021.04.19-09.17.22:463][426]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/Unreal Projects/Homoescapian/Saved/HomoEscapien_BuiltDataB3846CFF483559E49E088E83107D95D0.tmp' to '../../../../../../Users/jacob/Documents/Unreal Projects/Homoescapian/Content/ScottEnemyAi2/HomoEscapien_BuiltData.uasset'
+[2021.04.19-09.17.37:392][426]LogSlate: Window 'Submit Files' being destroyed
+[2021.04.19-09.17.38:142][426]LogSourceControl: commit successful: [main d57c6d8] STARTED COMBAT
+[2021.04.19-09.17.38:246][426]SourceControl: [main d57c6d8] STARTED COMBAT
+[2021.04.19-09.17.38:246][426]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2021.04.19-09.17.38:267][426]SourceControl: Commited [main d57c6d8] STARTED COMBAT.
+[2021.04.19-09.17.38:304][427]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.19-09.17.38:304][427]LogContentValidation: Display: Validating World /Game/ScottEnemyAi2/HomoEscapien.HomoEscapien
+[2021.04.19-09.17.38:304][427]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ScottEnemyAi2/HomoEscapien_BuiltData.HomoEscapien_BuiltData
